@@ -11,7 +11,6 @@ define('SMARTY_PLUGINS', MAIN_FOLDER.'smarty/plugins/');
 define('CLASSES_PATH', MAIN_FOLDER.'classes/');
 define('VILLA_XML_PATH', MAIN_FOLDER.'villa-xml/');
 define('SITEMAP_PATH', MAIN_FOLDER.'sitemaps/');
-define('ERROR_TEMPLATE', MAIN_FOLDER.'templates/404/');
 
 require CLASSES_PATH.'stringv.php';
 require CLASSES_PATH.'mobile.php';
